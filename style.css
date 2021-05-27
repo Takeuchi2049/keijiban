@@ -1,0 +1,107 @@
+header {
+    background-color: black;
+    height: 35px;
+}
+
+ul {
+    list-style: none;
+}
+
+header li {
+    float: left;
+    color: white;
+    padding-left: 15px;
+    padding-right:15px;
+    padding-top: 5px;
+}
+
+.left {
+    float: left;
+    width: 55%;
+}
+
+.right {
+    float: left;
+    width: 30%;
+    margin-left: 20px;
+    margin-top: 15px;
+}
+
+h1 {
+    border-left: 5px solid black;
+    border-bottom: 3px solid black;
+    padding-left: 10px;
+}
+
+.form {
+    width: 97%;
+    height: 400px;
+    background-color: #DDDDDD;
+    border: 1px solid #999999;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    padding: 10px;
+
+}
+
+form div {
+    padding: 10px;
+}
+
+.form1 {
+    font-size: 15px;
+    border-left: 3px solid red;
+    padding-left: 5px;
+}
+
+.submit {
+    border: 1px solid lightgray;
+    padding: 4px 10px;
+    color: white;
+    background-color: #444444;
+    border-radius: 5px;
+    border-bottom: 2px solid gray;
+}
+
+h2 {
+    border-bottom: 1px dotted black;
+    padding-left: 10px;
+}
+
+.something {
+    background-color: #DDDDDD;
+    border: 1px solid #999999;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    height: 200px;
+    padding: 5px;
+}
+
+footer {
+    clear: left;
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 35px;
+}
+
+img {
+    width: 150px;
+    height: 50px;
+}
+
+.something p {
+    border-bottom: 1px dotted black;
+    font-size: large;
+}
+
+.comments {
+    margin: 5px;
+    padding-bottom: 5px;
+}
+
+.handlename {
+    font-size: 12px;
+}
